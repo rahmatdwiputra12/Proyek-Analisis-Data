@@ -4,6 +4,7 @@ Proyek ini menyediakan dashboard berbasis Python yang bisa dijalankan di kompute
 ## Prasyaratan
 
 Sebelum menjalankan dashboard, pastikan kamu sudah memenuhi beberapa syarat:
+
 -Python 3.x: Pastikan kamu sudah menginstal versi Python yang sesuai.
 
 -Library Python yang dibutuhkan: Instal semua library yang diperlukan menggunakan pip.
